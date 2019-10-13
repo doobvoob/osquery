@@ -86,7 +86,7 @@ These queries can be:
 
 ## Download & Install
 
-To download the latest stable builds and for repository information and installation instructions
+Inorder to download the latest stable builds and for repository information and installation instructions
 visit [https://osquery.io/downloads](https://osquery.io/downloads/).
 
 ## Build from source
